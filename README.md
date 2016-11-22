@@ -1,3 +1,3 @@
 # hello-world
 tutorial lesson
-a bit about me
+a bit about me learning
